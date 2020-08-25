@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scal",
+				"scaled_genres\tstatement"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"gen",
+				"genres\tstatement"
+			],
+			[
+				"scl",
+				"scaled_genres\tstatement"
+			],
+			[
+				"sc",
+				"scaled_genres"
+			],
+			[
+				"sca",
+				"scaled_genres\tstatement"
+			],
+			[
+				"train",
+				"train_y\tstatement"
+			],
+			[
+				"fi",
+				"fit"
+			],
+			[
+				"tra",
+				"train_y"
+			],
+			[
+				"dumm",
+				"dummy_accuracy\tstatement"
+			],
+			[
+				"tes",
+				"test_y\tstatement"
+			],
+			[
+				"pred",
+				"predict"
+			],
+			[
+				"model",
+				"model_year"
+			],
+			[
+				"rena",
+				"rename_columns\tstatement"
+			],
+			[
+				"toda",
+				"today_year\tstatement"
+			],
+			[
+				"see",
+				"seed\tfunction"
+			],
+			[
+				"seed",
+				"SEED"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ml_unsupervised_2.py",
+			"settings":
+			{
+				"buffer_size": 1185,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ml_unsupervised_3.py",
+			"settings":
+			{
+				"buffer_size": 1279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ml_unsupervised_5.py",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ml_unsupervised_4.py",
+			"settings":
+			{
+				"buffer_size": 1315,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pep8",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda: lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nick/Desktop/Python/machine-learning-unsupervisioned/ml_unsuoervised_5.py",
+		"/Users/nick/Desktop/Python/machine-learning-unsupervisioned/ml_unsupervised.sublime-workspace",
+		"/Users/nick/Desktop/Python/machine-learning-unsupervisioned/ml_unsupervised.sublime-project",
+		"/Users/nick/Desktop/Python/machine-learning-intro/Source.gv",
+		"/Users/nick/Desktop/Python/machine-learning-intro/machine_learning_intro_3.py",
+		"/Users/nick/Desktop/Python/machine-learning/machine_learning_intro_4.py",
+		"/Users/nick/Desktop/Python/machine-learning-unsupervisioned/ml_unsupervised_2.py",
+		"/Users/nick/Desktop/Python/machine-learning-unsupervisioned/ml_unsupervised_1.py",
+		"/Users/nick/Desktop/Python/machine-learning/env/lib/python3.6/site-packages/graphviz/files.py",
+		"/Users/nick/Desktop/Python/machine-learning/Source.gv",
+		"/Users/nick/Desktop/Python/machine-learning/machine_learning_intro_5.py",
+		"/Users/nick/Desktop/Python/machine-learning/machine_learning_intro_3.py",
+		"/Users/nick/Downloads/lect5.py",
+		"/Users/nick/Desktop/Python/machine-learning/machine-learning.sublime-project"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ml_unsupervised_2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ml_unsupervised_3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ml_unsupervised_5.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1044,
+								1044
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ml_unsupervised_4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ml_unsupervised.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
